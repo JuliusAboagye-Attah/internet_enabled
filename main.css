@@ -1,0 +1,19 @@
+*{
+	font-family: Arial;
+	font-size: 11;
+	background-color: white;
+	margin: 1px;
+}
+.bigPageWrapper{
+	width: 100%;
+	height: 1000px;
+	margin: 1px;
+}
+.topMenuDiv{
+	width: 100%;
+	height:30px;
+}
+.tabsHolder{
+	width: 500px;
+	position: right;
+}
