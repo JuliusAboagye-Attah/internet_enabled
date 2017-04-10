@@ -1,0 +1,59 @@
+commit 530fee5ff8c7e9209314823d8f7be66fb3ccd268
+Author: Julius Aboagye-Atta <juliusaboagyeatta@rocketmail.com>
+Date:   Sat Jan 28 16:36:44 2017 +0000
+
+    add new pages on services and make modification on contents
+
+commit 19e37b7dcb46dd25692f3edb4f4e2924d4ad1348
+Author: Julius Aboagye-Atta <juliusaboagyeatta@rocketmail.com>
+Date:   Sun Jan 22 10:15:50 2017 +0000
+
+    Complete Contact_Me Page
+
+commit 42aa3e9df5a2a44db20f52536616849abd5b79b7
+Author: Julius Aboagye-Atta <juliusaboagyeatta@rocketmail.com>
+Date:   Sun Jan 22 09:36:58 2017 +0000
+
+    include contact_me page and content
+
+commit e6928099fab38d0f3e8f8863a93040938026d241
+Author: Julius Aboagye-Atta <juliusaboagyeatta@rocketmail.com>
+Date:   Sun Jan 22 09:23:04 2017 +0000
+
+    Styling About Me page
+
+commit f55271dd97190403ac53d91546e2a83f34fa0329
+Author: Julius Aboagye-Atta <juliusaboagyeatta@rocketmail.com>
+Date:   Sun Jan 22 09:13:52 2017 +0000
+
+    Add about_me.html and contents of page
+
+commit ca19bae82d5f012aa99bf820e9f7c4430db707cf
+Author: Julius Aboagye-Atta <juliusaboagyeatta@rocketmail.com>
+Date:   Sun Jan 22 08:20:53 2017 +0000
+
+    Add two side panels. Fix for panel two needed
+
+commit 9fe78de018d3e7c37c1859177f61dc70cf4b3255
+Author: Julius Aboagye-Atta <juliusaboagyeatta@rocketmail.com>
+Date:   Fri Jan 20 18:59:05 2017 +0000
+
+    Change "White_Flatty for gray_theme"
+
+commit 45f30c896b37aab5c97c265bd9a7b8e77aa50538
+Author: Julius Aboagye-Atta <juliusaboagyeatta@rocketmail.com>
+Date:   Fri Jan 20 18:49:22 2017 +0000
+
+    include Nav bar and add theme.css from bootstrap white_flatty
+
+commit 781fe3dfb22d31a4faa3450c3738ae3d66aa4ab1
+Author: Julius Aboagye-Atta <juliusaboagyeatta@rocketmail.com>
+Date:   Thu Jan 19 08:54:38 2017 +0000
+
+    Test the change
+
+commit 7b53a296bc59ae0cb27fd1da2a4dd4b976742fee
+Author: Julius Aboagye-Atta <juliusaboagyeatta@rocketmail.com>
+Date:   Thu Jan 19 08:26:14 2017 +0000
+
+    Create simple landing page with links to tabs
